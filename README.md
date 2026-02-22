@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Balaji 👋
 
-<!--
-**balaji2812/balaji2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (IoT & Automation) Student  
+🤖 AI/ML & Edge AI Enthusiast  
+📍 Tamil Nadu, India  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am passionate about building intelligent systems combining AI and IoT. Currently working on AutoML systems and lightweight deep learning models.
+
+
+## 🧠 Research Interests
+- Knowledge Distillation
+- AutoML
+- Edge AI
+- Evolutionary Neural Networks
+- Deep Learning Optimization
+
+
+## 🛠️ Tech Stack
+- Python
+- TensorFlow
+- Flask
+- C++
+- Java
+- Arduino
+- Raspberry Pi
+- MQTT
+- SQL
+- React
+
+
+## 📌 Current Projects
+- Hybrid Self-Evolving Neural Network (AutoML System)
+- Real-Time Multilingual Speech Translator
+- Lightweight Cancer Classification using Knowledge Distillation
+
+
+## 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/balajibp2812
+Email: balajibp2812@gmail.com | 127158006@sastra.ac.in
